@@ -1,2 +1,2 @@
-# desfios-praticos-typescript
-Desafios Praticos de Typescript 
+# Desafios Praticos de TypeScript
+Desafio de projeto Introdução Prática ao TypeScript 
